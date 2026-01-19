@@ -3,11 +3,21 @@
 }
 body {
     background-color: #d6caca;
+ } 
+
 h1 {
     color: #008000;
     text-align: center;
 }
-p {font-size: 18px;
-line-height: 1.5;}
 
+p {
+    font-size: 18px;
+    line-height: 1.5;
+
+    background-color: #ffffff;
+    border: 2px solid green;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
 }
