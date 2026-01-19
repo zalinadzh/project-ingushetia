@@ -54,3 +54,32 @@ ul {
 
 
 }
+
+
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0, 0, 0, 0.2;
+}
+
+a {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: rgb(255, 255, 255, 0.9);
+    color: #008000;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid green;
+    font-weight: bold;
+
+
+}
+
+a:hover {
+    background-color: #008000;
+    color: white;
+    transition: 0.3s;
+
+}
